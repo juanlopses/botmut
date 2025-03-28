@@ -2,9 +2,9 @@
   "name": "whatsapp-bot",
   "version": "1.0.0",
   "description": "Bot de WhatsApp con Baileys que permite mutear y desmutear usuarios en grupos.",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "*"
